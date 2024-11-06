@@ -1,7 +1,3 @@
-Here's a README file based on the provided JavaScript code and your project description:
-
----
-
 # HCVA Card Reader Script
 
 This repository contains JavaScript code for handling health card validation and extraction (HCVA) processes. It is specifically designed to support HCVA page functionalities, including reading and processing information from card swipes, displaying user messages, and enhancing accessibility and user experience.
